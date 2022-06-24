@@ -1,0 +1,28 @@
+﻿ header { background-color:#660066;   
+       color:#E6E6FA;
+ }
+
+ body {
+	background-color:#e7c9e8; font-family: "Courier New", Courier, monospace;
+
+ }
+
+ h1 {
+	color:#ffffff;
+	border: 5px solid #cc0066
+ }
+ 
+ h2 {
+	color:#19004d;
+ }
+
+ p {
+	color:#19004d;
+ }
+ 
+ nav {
+	background-color:#ccb3ff;
+	border: 2px solid #cc0066;
+	margin-left: 2em;
+	margin-right: 2em;
+}
